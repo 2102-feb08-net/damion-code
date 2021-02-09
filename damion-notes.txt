@@ -1,1 +1,12 @@
 Testing commands from yesterday
+
+Good git practices 
+-commit often (with descriptive commit messages)
+
+git init to make a folder git ready.
+
+git status, check the status.
+
+git add - adds the files to staging area.
+
+git commit -m "" - adds commit with message, else you will have to add it in nano or vim
